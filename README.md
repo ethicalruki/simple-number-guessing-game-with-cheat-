@@ -1,7 +1,7 @@
 # simple-number-guessing-game-with-cheat
 Read.me
 
-Just a classic number guessing game I built while learning Python. It includes a few extra features like difficulty levels, custom turn limits, and basic input protection so it doesnt crash on typos.
+A classic number guessing game I built to brush up on my Python basics before moving on to bigger projects. It includes a few extra features like difficulty levels, custom turn limits, and basic input protection so it doesnt crash on typos.
 
 # Features:
 * **3 Levels:** Choose between 1-10, 1-100, or 1-1000.
