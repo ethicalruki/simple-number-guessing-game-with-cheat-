@@ -16,8 +16,11 @@ A classic number guessing game I built to brush up on my Python basics before mo
 * Writing clean functions to handle the random number generation.
 * Using `.lower()` to normalize string inputs (so "Yes" and "yes" both work).
 
+# My struggles:
+* None except Indentation held me back a few times xd.
+
 # How to run it:
-1 Fire up the script in your terminal.
+1 Launch up the script in your terminal.
 2. Pick a level and enter your desired number of tries.
 3. Guess the number! The terminal will tell you if you need to go higher or lower.
 4. Type `yes` at the end to keep playing and build your win streak.
